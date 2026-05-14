@@ -26,12 +26,11 @@
 
 🔥 **High-quality builds that showcase real-world skills**
 
-- 📋 **Complaint Management System** → Web-based platform for submitting and managing complaints
-- 🎬 **Netflix Clone** → API-based movie platform
-- ✅ **To-Do List App** → Task management app with clean UI
-- 🎮 **Guessor Game App** → Java-based number guessing game
-- 🌐 **Personal Portfolio** → Developer-focused branding
-
+- 📋 **Complaint Management System** → Web-based platform for submitting and managing complaints  
+- 📊 **CSV to Dashboard Generator** → AI-powered tool that converts CSV data into interactive dashboards  
+- ✅ **To-Do List App** → Task management app with clean UI  
+- 🎮 **Guessor Game App** → Java-based number guessing game  
+- 🚀 **CareerVerse AI** → AI-powered career guidance platform for students  
 ---
 
 ## 💻 My favorite tools and technologies
