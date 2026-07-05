@@ -101,9 +101,9 @@
 
 <p align="center">
 
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Akash-Wakade-7008-alt&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=akashWakade7355&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-Wakade-7008-alt&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashWakade7355&theme=tokyo-night&hide_border=true" />
 </p>
