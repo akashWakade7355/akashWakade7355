@@ -15,7 +15,7 @@
 ### `> About Me`
 
 - 🎓 **B.Tech Computer Science student** exploring the intersection of AI and modern web technologies
-- 🛠️ **Learning backend development**, focused on building scalable and efficient systems
+- 🛠️ **Learning backend development**,**Python for Data Science** focused on building scalable and efficient systems
 - 🧠 **Practicing Data Structures & Algorithms** to strengthen problem-solving and core fundamentals
 - 🚀 **Working with the MERN stack**, building real-world, production-ready applications
 - 🌱 **Growth-driven developer** — building projects, contributing to open source, and learning in public
