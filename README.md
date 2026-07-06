@@ -99,10 +99,4 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=akashWakade7355&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashWakade7355&theme=tokyo-night&hide_border=true" />
-</p>
