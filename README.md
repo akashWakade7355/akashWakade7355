@@ -91,6 +91,10 @@
 <img src="https://skillicons.dev/icons?i=jquery" width="48"/><br>jQuery
 </td>
 
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>MongoDB
+</td>
+
 </tr>
 </table>
 
