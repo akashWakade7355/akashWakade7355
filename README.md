@@ -1,106 +1,88 @@
- <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhsNGJkdGdpYjU2dTh2NjdhN3ZqOHRmeWx6dXZpYzd1aXN0bnB1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%">
-</p>
+<div align="center">
+
+# Hi, I'm Akash 👋
+
+### Computer Science student · Developer · Lifelong learner
+
+[![Typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Exploring+AI+and+modern+web+technologies;Learning+backend+development+and+data+science;Building+projects+and+learning+in+public)](https://git.io/typing-svg)
+
+![Profile views](https://komarev.com/ghpvc/?username=akashWakade7355&style=flat&color=58A6FF)
+
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+## About me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akash-Wakade-7008-alt/Akash-Wakade-7008-alt/output/github-contribution-grid-snake.svg" />
-</p>
+- 🎓 B.Tech Computer Science student exploring AI and modern web technologies
+- 🛠️ Learning backend development and Python for data science
+- 🧠 Practicing data structures and algorithms to strengthen problem-solving skills
+- 🌱 Building projects, contributing to open source, and learning in public
 
----
+## Featured projects
 
-### `> About Me`
+| Project | What it does |
+| --- | --- |
+| 📋 **Complaint Management System** | Web platform for submitting and managing complaints |
+| 📊 **CSV to Dashboard Generator** | AI-powered tool that turns CSV data into interactive dashboards |
+| ✅ **To-Do List App** | Task management app with a clean interface |
+| 🎮 **Guessor Game App** | Java-based number guessing game |
+| 🚀 **CareerVerse AI** | AI-powered career guidance platform for students |
 
-- 🎓 **B.Tech Computer Science student** exploring the intersection of AI and modern web technologies
-- 🛠️ **Learning backend development**,**Python for Data Science** focused on building scalable and efficient systems
-- 🧠 **Practicing Data Structures & Algorithms** to strengthen problem-solving and core fundamentals
-- 🌱 **Growth-driven developer** — building projects, contributing to open source, and learning in public
+## Tools & technologies
 
----
+<div align="center">
 
-## 🚀 Featured Projects
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![C++](https://skillicons.dev/icons?i=cpp)
+![C](https://skillicons.dev/icons?i=c)
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![jQuery](https://skillicons.dev/icons?i=jquery)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
-🔥 **High-quality builds that showcase real-world skills**
+</div>
 
-- 📋 **Complaint Management System** → Web-based platform for submitting and managing complaints  
-- 📊 **CSV to Dashboard Generator** → AI-powered tool that converts CSV data into interactive dashboards  
-- ✅ **To-Do List App** → Task management app with clean UI  
-- 🎮 **Guessor Game App** → Java-based number guessing game  
-- 🚀 **CareerVerse AI** → AI-powered career guidance platform for students  
----
+## GitHub at a glance
 
-## 💻 My favorite tools and technologies
+<div align="center">
 
-<table>
-<tr>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akashWakade7355&show_icons=true&theme=tokyonight&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashWakade7355&layout=compact&theme=tokyonight&hide_border=true)
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=javascript" width="48"/><br>JavaScript
-</td>
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashWakade7355&theme=tokyo-night&hide_border=true)](https://github.com/akashWakade7355)
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>C++
-</td>
+</div>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=c" width="48"/><br>C
-</td>
+## 3D contribution history
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=java" width="48"/><br>Java
-</td>
+<div align="center">
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python
-</td>
+![Animated 3D contribution calendar](./profile-3d-contrib/profile-season-animate.svg)
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code
-</td>
+</div>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>DBMS
-</td>
-</tr>
+The 3D calendar is refreshed daily by GitHub Actions. You can also generate it manually from the repository's **Actions** tab.
 
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub
-</td>
+## Contribution snake
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git
-</td>
+<div align="center">
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5
-</td>
+![Contribution snake](https://raw.githubusercontent.com/akashWakade7355/akashWakade7355/output/github-contribution-grid-snake.svg)
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS3
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=jquery" width="48"/><br>jQuery
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>MongoDB
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashWakade7355&theme=tokyo-night&hide_border=true" />
+*Thanks for stopping by — let's keep learning and building!*
+
+</div>
